@@ -50,6 +50,21 @@ WOW! We are done, we can add tables and run queries and do all sorts of stuff.
 
 Happy SQL-ing!! 
 
+Now, it's kinda boring to make our own data. I found a dataset that you can use to practice.
+The dataset is from this [repo](https://github.com/bradleygrant/sakila-sqlite3). 
+
+Feel free to clone it but you can also download and use what I have provided in the Samples folder! 
+
+To open up the database, move `sakila_master.db` to the same folder as the `sqlite3` application we ran earlier with `./sqlite3` command. 
+
+Once you have done this, in the terminal type `./sqlite3 sakila_master.db`. 
+
+You are rocking with the sakila_master database now. 
+
+WOW! NOW YOU ARE SQL-ING! 
+
+
+
 
 
 
